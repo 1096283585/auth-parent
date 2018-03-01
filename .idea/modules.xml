@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-api/api.iml" filepath="$PROJECT_DIR$/auth-api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/auth-parent.iml" filepath="$PROJECT_DIR$/.idea/auth-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-spring-boot/auth-spring-boot.iml" filepath="$PROJECT_DIR$/auth-spring-boot/auth-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-spring-boot/auth-spring-boot-service/auth-spring-boot-service.iml" filepath="$PROJECT_DIR$/auth-spring-boot/auth-spring-boot-service/auth-spring-boot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-spring-boot/auth-spring-boot-web/auth-spring-boot-web.iml" filepath="$PROJECT_DIR$/auth-spring-boot/auth-spring-boot-web/auth-spring-boot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-common/basic-crud.iml" filepath="$PROJECT_DIR$/auth-common/basic-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-rpc/rpc.iml" filepath="$PROJECT_DIR$/auth-rpc/rpc.iml" />
+    </modules>
+  </component>
+</project>

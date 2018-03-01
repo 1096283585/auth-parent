@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="auth-spring-boot-service:war">
+    <output-path>$PROJECT_DIR$/auth-spring-boot/auth-spring-boot-service/target</output-path>
+    <root id="archive" name="auth-spring-boot-service-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="auth-spring-boot-service:war exploded" />
+    </root>
+  </artifact>
+</component>

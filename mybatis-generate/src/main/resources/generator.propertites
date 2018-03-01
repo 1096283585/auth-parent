@@ -1,0 +1,5 @@
+jdbc.driverLocation=D:\\users\\default\\.m2\\repository\\mysql\\mysql-connector-java\\5.1.40\\mysql-connector-java-5.1.40.jar
+jdbc.driverClass=com.mysql.jdbc.Driver
+jdbc.connectionURL=jdbc:mysql://0.0.0.0:3306/s4t-2.0_auth?&amp;useSSL=false
+jdbc.userId=root
+jdbc.password=123
